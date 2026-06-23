@@ -1,6 +1,6 @@
 import { Github, Linkedin, Mail, Download, ArrowDown } from 'lucide-react';
 import ProfileImg from "../assets/image.png"
-import Resume from "../assets/Mahesh_Pikki_Resume_60.pdf"
+import Resume from "../assets/MaheshPikki_Resume.pdf"
 
 const socialLinks = [
   {

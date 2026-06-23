@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Menu, X, Moon, Sun, Download } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext';
 import { useActiveSection } from '../hooks/useScrollAnimation';
-import Resume from "../assets/Mahesh_Pikki_Resume_60.pdf"
+import Resume from "../assets/MaheshPikki_Resume.pdf"
 
 const navLinks = [
   { id: 'home', label: 'Home' },
